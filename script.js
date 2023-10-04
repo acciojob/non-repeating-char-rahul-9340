@@ -8,11 +8,12 @@ if(str.charAt(i)!=str.charAt(i+1)&&str.charAt(i)!=str.charAt(i-1))
 }
 
 }
-	
-
 	return null;
-	
 }
-const input = prompt("Enter a string");
 
-alert(firstNonRepeatedChar(input)); 
+
+
+
+// const input = prompt("Enter a string");
+
+// alert(firstNonRepeatedChar(input)); 
